@@ -1,8 +1,6 @@
 streamlit
 pandas
-numpy
 faiss-cpu
 langchain
 google-generativeai 
 python-dotenv
-webbrowser  
